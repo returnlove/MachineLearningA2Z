@@ -32,6 +32,14 @@ labelencoder_y = LabelEncoder()
 y = labelencoder_y.fit_transform(y)
 
 
+#splitting training and test sets
+
+from sklearn.cross_validation import train_test_split
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.20, random_state = 0)
+
+
+
 
 
 
