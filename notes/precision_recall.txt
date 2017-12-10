@@ -1,0 +1,5 @@
+Recall = TP / (TP + FN) = How many positive items were predicted
+
+Precison = TP / (TP + FP) = How may predicted items were positive
+
+F1 Score = 2 * Precision * Recall / (Precision + Recall)

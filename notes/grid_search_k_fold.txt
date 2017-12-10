@@ -1,0 +1,5 @@
+K Fold cross validation is to measure the performance of a model
+
+Grid search - hyper parameter tuning, to find out the best combinations of hyper parameters
+Ex: in SVM,linear model vs kernal. if the problem is linear then linear model will be shown after performing grid search else, kernal SVM will be shown.
+
