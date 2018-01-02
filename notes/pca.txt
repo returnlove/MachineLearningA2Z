@@ -1,0 +1,18 @@
+pca is a dimensionality redecution technique
+
+if we want to represent project higher dimension data in the lower dimension, then use PCA
+
+each component is a linear combination of all the features
+
+each pca is orthogonal to each other, meaning - there is no correlation between two components
+
+
+regardless of the dependendent/outcome variable, pca will identify principle components which are lower dimensional representation of actual data (which explains most of the variance in the data)
+
+z1 = param1 * x1 + param2 * X2 + ... + paramN * Xn
+these parameters are called loadings
+
+All these parameters are normalized meaning sum of squares of these parameters are 1
+
+
+
