@@ -1,0 +1,3 @@
+while pca is unsupervised technique as it doesn't consider dependednt variable for finding the principle components, however LDA is supervised technique as it considers the class labels to find out the components.
+
+Basically it tries to decrease the dimensions while retaining the class infomation.
