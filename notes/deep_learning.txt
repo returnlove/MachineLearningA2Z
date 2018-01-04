@@ -1,0 +1,21 @@
+Deep Learning:
+
+
+Input Layer > Hidden Layer > Output layer
+
+Input Layer > Hidden Layer1 > hidden layer 2> ...> hidden layer n > Output layer
+
+
+
+The Neuron:
+
+need to mimic how human brain works
+
+
+Activation function
+Gradient descent
+Stochastic gradient descent
+back propagation
+
+
+
