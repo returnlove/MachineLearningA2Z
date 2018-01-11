@@ -18,4 +18,19 @@ Stochastic gradient descent
 back propagation
 
 
+Each features in the input layer should be standardized
+for the first layer or input layer, all the features X1, X2, X3, .. , Xn are of the one observation. That means, all the independent variables in that observations will be passed into input layer.
+
+?check standarization vs scaling:
+
+output variable can be only continuous, or binary or categorical.
+If its continuous then only one value will be there
+if its categorical, the output layer will have output same as number of categorical values.
+
+every time, one observation will be passed into the neural network.
+
+synopsys will have weights.
+using gradient descent, the back propogation will happen and the weights will be updated accordingly. (hill to the lowest point - optimization)
+
+In the neuran, first input values * Weights and then activation function will be applied. ==> a(X * W)
 
