@@ -34,3 +34,13 @@ using gradient descent, the back propogation will happen and the weights will be
 
 In the neuran, first input values * Weights and then activation function will be applied. ==> a(X * W)
 
+Activation functions:
+1) Threshold activation function >> 0 or 1
+2) Sigmoid function >> 0 > 1 continuous (probability of y = 1)
+3) Rectifier function >> 
+4) Hyperbolic tangent function >> -1 to 0 to 1 (continuos)
+
+In some cases, in the hidden layer you can apply rectifier function and in the output layer you can apply sigmoid function
+
+
+
